@@ -34,6 +34,8 @@ public class NewMain {
         
         System.out.println("La suma es: " + c.suma());
         
+        System.out.println("La resta es: "+c.resta());
+        
     }
     
 }
